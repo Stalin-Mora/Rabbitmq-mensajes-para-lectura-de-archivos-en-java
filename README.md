@@ -16,6 +16,7 @@ Compilacion
 3. Tener corriendo la imagend e docker donde esta almacenado rabbit
 4. Para ingresar a la plataforma rabbit se tiene el usuario y contraseña como: guest
 5. Cambie la ruta donde se encontrara los archivos txt
+6. Añada los jars que contiene en el .zip
 
 ¿Qué es RabbitMQ?
 RabbitMQ es un software de encolado de mensajes llamado bróker de mensajería o gestor de colas. Dicho de forma simple, es un software donde se pueden definir colas, las aplicaciones se pueden conectar a dichas colas y transferir/leer mensajes en ellas.
